@@ -82,4 +82,4 @@ MIT License. Free for personal and commercial use.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Jalil
